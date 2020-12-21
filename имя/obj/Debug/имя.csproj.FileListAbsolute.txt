@@ -1,0 +1,26 @@
+C:\Users\АДМИН\source\repos\имя\имя\bin\Debug\имя.exe.config
+C:\Users\АДМИН\source\repos\имя\имя\bin\Debug\имя.exe
+C:\Users\АДМИН\source\repos\имя\имя\bin\Debug\имя.pdb
+C:\Users\АДМИН\source\repos\имя\имя\obj\Debug\имя.csprojAssemblyReference.cache
+C:\Users\АДМИН\source\repos\имя\имя\obj\Debug\имя.Form1.resources
+C:\Users\АДМИН\source\repos\имя\имя\obj\Debug\имя.Properties.Resources.resources
+C:\Users\АДМИН\source\repos\имя\имя\obj\Debug\имя.csproj.GenerateResource.cache
+C:\Users\АДМИН\source\repos\имя\имя\obj\Debug\имя.csproj.CoreCompileInputs.cache
+C:\Users\АДМИН\source\repos\имя\имя\obj\Debug\имя.exe
+C:\Users\АДМИН\source\repos\имя\имя\obj\Debug\имя.pdb
+C:\Users\АДМИН\source\repos\имя\имя\obj\Debug\имя.Form2.resources
+C:\Users\АДМИН\source\repos\имя\имя\obj\Debug\имя.Form3.resources
+C:\Users\АДМИН\source\repos\имя\имя\obj\Debug\имя.Form4.resources
+C:\Users\bogom\Desktop\Марафон Скилс\имя\bin\Debug\имя.exe.config
+C:\Users\bogom\Desktop\Марафон Скилс\имя\bin\Debug\имя.exe
+C:\Users\bogom\Desktop\Марафон Скилс\имя\bin\Debug\имя.pdb
+C:\Users\bogom\Desktop\Марафон Скилс\имя\obj\Debug\имя.csprojAssemblyReference.cache
+C:\Users\bogom\Desktop\Марафон Скилс\имя\obj\Debug\имя.Form1.resources
+C:\Users\bogom\Desktop\Марафон Скилс\имя\obj\Debug\имя.Form2.resources
+C:\Users\bogom\Desktop\Марафон Скилс\имя\obj\Debug\имя.Form3.resources
+C:\Users\bogom\Desktop\Марафон Скилс\имя\obj\Debug\имя.Form4.resources
+C:\Users\bogom\Desktop\Марафон Скилс\имя\obj\Debug\имя.Properties.Resources.resources
+C:\Users\bogom\Desktop\Марафон Скилс\имя\obj\Debug\имя.csproj.GenerateResource.cache
+C:\Users\bogom\Desktop\Марафон Скилс\имя\obj\Debug\имя.csproj.CoreCompileInputs.cache
+C:\Users\bogom\Desktop\Марафон Скилс\имя\obj\Debug\имя.exe
+C:\Users\bogom\Desktop\Марафон Скилс\имя\obj\Debug\имя.pdb
